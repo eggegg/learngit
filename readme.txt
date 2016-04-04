@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Change git user name and email
 Creating a new branch is quick and simple
+test --no-ff

@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Change git user name and email
-Creating a new branch is quick
+Creating a new branch is quick & simple
